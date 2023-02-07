@@ -6,6 +6,17 @@ public class Main {
 }
 
 
+#Feature 202 changes has been done by harsha on feb2023
+class Main {
+
+  // create a method
+  public int addNumbers(int a, int b) {
+    int sum = a + b;
+    // return value
+    return sum;
+  }
+
+
 #Feature201 changes done by me on the services module on Feb2023
 
 class Main {
@@ -27,3 +38,4 @@ class Main {
     System.out.println("Squared value of 10 is: " + result);
   }
 }
+
